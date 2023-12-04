@@ -63,4 +63,4 @@ jobs:
           app-name: 'az104lab09aprueba'
           slot-name: 'Staging'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_02C9E7BF836549BDA1E2CB932CEFC693 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_89EDC04E10F841C2A89D7949AE8A689D }}
